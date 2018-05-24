@@ -1,0 +1,8 @@
+{
+	 "name": "the-lavender-experience",
+	 "version": "1.0.0",
+	 "description": "You know.",
+	 "dependencies": {
+	   "harp": "*"
+	 }
+}
